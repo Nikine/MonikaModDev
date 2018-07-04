@@ -960,7 +960,7 @@ label greeting_japan:
     m 2eub "Hello, [player]!"
     m 1eua "I'm just practicing Japanese."
     m 3eua "Let's see..."
-    m 4hub "Watashi ha itsumademo anata no mono desu!"
+    m 4hub "Watashi wa itsumademo anata no mono desu!"
     m 2hksdlb "Sorry if that didn't make sense!"
     m 3eua "You know what that means, [player]?"
     m 4ekbfa "It means {i}'I'll be yours forever{/i}'~"
